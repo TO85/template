@@ -1,6 +1,9 @@
 TEMPLATE = subdirs
 
 SUBDIRS += \
-    apps \
-    libs \
+        apps \
+        libs \
 	plugins \
+        unittest \
+
+
