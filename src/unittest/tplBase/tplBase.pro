@@ -6,4 +6,4 @@ CONFIG -= app_bundle
 
 TEMPLATE = app
 
-SOURCES +=  tst_autotest.cpp
+SOURCES +=  tst_tplBase.cpp \
